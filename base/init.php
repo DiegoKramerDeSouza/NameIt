@@ -1,0 +1,3 @@
+<?php
+	$init = "V1ZkU2RHRlhOWEJqTTFKNVdWZFNkbU5uUFQwPXx8VVVkU2RHRlhOVUZhUnpGd1ltYzlQUT09";
+?>
